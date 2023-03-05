@@ -1,0 +1,42 @@
+{
+    "last": {
+        "chapter": 1,
+        "lesson": 1
+    },
+    "filter": 0,
+    "language": "de",
+    "chapters": [
+        {
+            "nr": 1,
+            "lessons": [
+                {
+                    "nr": 1,
+                    "lastRun": {
+                        "date": "2023-01-01T00:00:00",
+                        "rating": 0
+                    },
+                    "ratingNote": 0,
+                    "ratingCount": 0
+                },
+                {
+                    "nr": 2,
+                    "lastRun": {
+                        "date": "2023-01-01T00:00:00",
+                        "rating": 0
+                    },
+                    "ratingNote": 0,
+                    "ratingCount": 0
+                },
+                {
+                    "nr": 3,
+                    "lastRun": {
+                        "date": "2023-01-01T00:00:00",
+                        "rating": 0
+                    },
+                    "ratingNote": 0,
+                    "ratingCount": 0
+                }
+            ]
+        }
+    ]
+}
